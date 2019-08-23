@@ -1,0 +1,14 @@
+{
+    "files": [],
+    "references": [
+      {
+        "path": "./lib"
+      },
+      {
+        "path": "./app1"
+      },
+      {
+        "path": "./app2"
+      }
+    ]
+  }
